@@ -5,6 +5,6 @@ Convolutional neural network to evalutate the time on a clock generated with ope
 
 Currently works with 15 min intevals.
 # Examples:
-![Example 1](https://raw.githubusercontent.com/ThierryJudge/ConvolutionalClock/blob/master/Screenshots/Capture1.PNG)
-![Example 2](https://raw.githubusercontent.com/ThierryJudge/ConvolutionalClock/blob/master/Screenshots/Capture2.PNG)
+![Example 1](https://github.com/ThierryJudge/ConvolutionalClock/blob/master/Screenshots/Capture1.PNG)
+![Example 2](https://github.com/ThierryJudge/ConvolutionalClock/blob/master/Screenshots/Capture2.PNG)
 
